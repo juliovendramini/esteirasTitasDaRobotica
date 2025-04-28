@@ -7,3 +7,5 @@ Arquivos da esteira do Ligeirinho utilizada pela equipe Titãs da Robótica em 2
 * Recomendamos imprimir em ABS e utilizar os cabinhos de cotonete para fazer os eixos. Para prender as pontas é só utilizar um ferro de solda e aquecer as pontas que elas travarão o eixo.
 * Para dar aderência nas esterias utilizamos borrachinhas de dentista.
 * Este resultado foi fruto de muito trabalho pela equipe. Faça como nós! Compartilhe conhecimento com outros competidores.
+
+Atualização: Quem quiser a engrenagem pequena pra esticar a esteira: https://www.printables.com/model/405968-lego-sprocket-mini-57520 ou https://www.thingiverse.com/thing:3296223
