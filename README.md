@@ -1,6 +1,6 @@
-# Arquivos para impressão 3D da esteira do Titãs da Robótica Versão 2023.
+# Arquivos para impressão 3D da esteira do Titãs da Robótica Versão 2023 e 2025.
 
-Arquivos da esteira do Ligeirinho utilizada pela equipe Titãs da Robótica em 2023.
+Arquivos da esteira do Ligeirinho utilizada pela equipe Titãs da Robótica em 2023 e agora também a última desenvolvida de 2025, mais resistente e que passa melhor em redutores.
 
 * Utilize a vontade nos seus robôs. Só pedimos que mantenham os créditos da criação pela nossa equipe.
 * Essa esteria é baseada na esteira preta de plástico do Lego EV3. Então ela é perfeitamente compatível com o tamanho das engrenagens de esterias pretas da lego.
